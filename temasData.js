@@ -499,24 +499,24 @@ const temasData = [
                     </thead>
                     <tbody>
                       <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-                        <td style="padding: 8px; font-weight: bold;">Iniciación</td>
-                        <td style="padding: 8px;">Destinado a apoyar a los profesores noveles o principiantes al ingresar al sistema escolar.</td>
+                        <td style="padding: 8px; font-weight: bold;">Desarrollo profesional autónomo:</td>
+                        <td style="padding: 8px;">Basado en el aprendizaje auto-dirigido. El profesor asume el control de su propia formación e iniciativa a través del análisis de tareas, la lectura, la reflexión y la investigación en su propia práctica.</td>
                       </tr>
                       <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-                        <td style="padding: 8px; font-weight: bold;">Basado en la escuela</td>
-                        <td style="padding: 8px;">Colaborativo. La formación responde a las necesidades específicas del centro y se realiza entre iguales.</td>
+                        <td style="padding: 8px; font-weight: bold;">Desarrollo profesional basado en la reflexión:</td>
+                        <td style="padding: 8px;">El profesor es dinámico y activo, concibiéndose como un "aprendiz de su propia práctica" que resuelve problemas cuestionando su propia acción en el aula.</td>
                       </tr>
                       <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-                        <td style="padding: 8px; font-weight: bold;">Integrado</td>
-                        <td style="padding: 8px;">Busca unir el conocimiento teórico de la academia con la práctica y experimentación directa en el aula.</td>
+                        <td style="padding: 8px; font-weight: bold;">Desarrollo profesional mediante el desarrollo curricular y la formación del centro:</td>
+                        <td style="padding: 8px;">La formación es contextualizada. El docente se forma diseñando proyectos de innovación junto a la comunidad educativa para mejorar su propia escuela.</td>
                       </tr>
                       <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-                        <td style="padding: 8px; font-weight: bold;">Individualizado</td>
-                        <td style="padding: 8px;">Autoformación. El profesor diseña de manera autónoma su propio itinerario según sus intereses.</td>
+                        <td style="padding: 8px; font-weight: bold;">Desarrollo profesional a través de los cursos de formación:</td>
+                        <td style="padding: 8px;">Es el más utilizado pero el menos valorado. Separa la teoría de la práctica y genera una "obsesión por los certificados" más que por el perfeccionamiento real.</td>
                       </tr>
                       <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-                        <td style="padding: 8px; font-weight: bold;">Entrenamiento / Supervisión</td>
-                        <td style="padding: 8px;">Un docente experto asesora y evalúa la labor de otro a través de la tutorización o coaching.</td>
+                        <td style="padding: 8px; font-weight: bold;">Desarrollo profesional desde la investigación:</td>
+                        <td style="padding: 8px;">Basado en la investigación-acción. El docente aplica métodos de investigación en su aula para resolver problemas prácticos inmediatos con total igualdad entre los participantes.</td>
                       </tr>
                     </tbody>
                   </table>
